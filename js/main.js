@@ -4,3 +4,5 @@ while(num < 10) {
     console.log("num: ", num);
     num ++
 }
+
+let name = "Jane"
